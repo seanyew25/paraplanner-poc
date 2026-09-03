@@ -1,0 +1,10 @@
+.env
+.venv/
+chunker/policies.db
+chunker/chroma_db/
+logs/
+archetype_guides/
+Policies/
+chroma_db/
+policies.db
+__pycache__/

@@ -1,0 +1,105 @@
+{
+  "Section_A_Know_Your_Client": {
+    "1_Personal_Information": {
+      "a_Personal_Details": {
+        "Title": "Ms.",
+        "Full_Name": "Aishah ",
+        "NRIC_Passport_No": "",
+        "Date_of_Birth": "1977 (49 years old) ",
+        "Marital_Status": "Single",
+        "Gender": "Female ",
+        "Email_Address": "aishah@example.com.sg",
+        "Contact_Number": ""
+      },
+      "b_Employment_Details": {
+        "Employment_Status": "Employed ",
+        "Monthly_Income_Range": "$4,900 (Gross Monthly Salary) ",
+        "Type_of_Work_Passes": "N/A (Singaporean/PR implied by CPF contributions) ",
+        "Current_Occupation": "Business Development Executive "
+      },
+      "c_Details_of_Spouse_and_Dependants": [
+        {
+          "Relation": "Father ",
+          "Full_Name": "",
+          "Date_of_Birth": "1949 (77 years old) ",
+          "Gender": "Male",
+          "Employment_Status": "Not working ",
+          "Monthly_Income_Range": "$0"
+        },
+        {
+          "Relation": "Child 1",
+          "Full_Name": "",
+          "Date_of_Birth": "2013 (13 years old) ",
+          "Gender": "Male ",
+          "Employment_Status": "Student",
+          "Monthly_Income_Range": "N/A"
+        }
+      ],
+      "d_Other_Sources_of_Income": [
+        {
+          "Monthly_Amount": "",
+          "Activity": ""
+        }
+      ]
+    },
+    "2_Existing_Insurance_Portfolio": {
+      "Take_into_consideration": true,
+      "Reason_if_no": "",
+      "Portfolio_Summary": [
+        {
+          "Name_of_Insured": "Aishah",
+          "Types_of_Benefit": "Death & Total Permanent Disability (TPD) ",
+          "Total_Benefit_Amount": "$70,000",
+          "Annual_Premium": "$93 (payable via CPF) ",
+          "Coverage_Type": "Dependants' Protection Scheme (DPS) "
+        },
+        {
+          "Name_of_Insured": "Aishah, Father, and Son ",
+          "Types_of_Benefit": "Large healthcare bills ",
+          "Total_Benefit_Amount": "As per national scheme limits",
+          "Annual_Premium": "$187/month combined via CPF ",
+          "Coverage_Type": "MediShield Life "
+        }
+      ]
+    },
+    "3_Cash_Flow_and_Budget": {
+      "Take_into_consideration": true,
+      "Reason_if_no": "",
+      "a_Cash_Flow": {
+        "Estimated_total_annual_income": "$58,800 ($4,900 x 12 months) ",
+        "Estimated_total_annual_expenses": "$36,000 ($3,000 x 12 months) ",
+        "Surplus_Shortfall": "Surplus",
+        "Significant_changes_expected": null,
+        "Remarks": "Monthly take-home pay is $3,920 after a 20% CPF contribution deduction ($980) ."
+      },
+      "b_Budget": {
+        "Annual_Amount": "$11,040 ($920 monthly financial planning budget) ",
+        "Source_of_this_fund": "Monthly Take-home Pay ",
+        "Single_Amount": "",
+        "Substantial_portion_of_assets": false
+      }
+    },
+    "4_Assets_and_Liabilities": {
+      "Take_into_consideration": true,
+      "Reason_if_no": "",
+      "a_Assets": {
+        "Personal_Use_Assets": "",
+        "Investment": "",
+        "CPF": "",
+        "Others": "",
+        "Emergency_Fund": "$16,000 saved so far, targeting $18,000 (6 months of expenses) ",
+        "Total_Assets": ""
+      },
+      "b_Liabilities": {
+        "Loans": "",
+        "Liabilities": "",
+        "Total_Liabilities": ""
+      },
+      "Combined": {
+        "Total_Assets": "",
+        "Less_Total_Liabilities": "",
+        "Net_Asset_Position": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "Section_A_Know_Your_Client": {
+    "1_Personal_Information": {
+      "a_Personal_Details": {
+        "Title": "",
+        "Full_Name": "",
+        "NRIC_Passport_No": "",
+        "Date_of_Birth": "",
+        "Marital_Status": "",
+        "Gender": "",
+        "Email_Address": "",
+        "Contact_Number": ""
+      },
+      "b_Employment_Details": {
+        "Employment_Status": "",
+        "Monthly_Income_Range": "",
+        "Type_of_Work_Passes": "",
+        "Current_Occupation": ""
+      },
+      "c_Details_of_Spouse_and_Dependants": [
+        {
+          "Relation": "Spouse",
+          "Full_Name": "",
+          "Date_of_Birth": "",
+          "Gender": "",
+          "Employment_Status": "",
+          "Monthly_Income_Range": ""
+        },
+        {
+          "Relation": "Child 1",
+          "Full_Name": "",
+          "Date_of_Birth": "",
+          "Gender": "",
+          "Employment_Status": "",
+          "Monthly_Income_Range": ""
+        }
+      ],
+      "d_Other_Sources_of_Income": [
+        {
+          "Monthly_Amount": "",
+          "Activity": ""
+        }
+      ]
+    },
+    "2_Existing_Insurance_Portfolio": {
+      "Take_into_consideration": null,
+      "Reason_if_no": "",
+      "Portfolio_Summary": [
+        {
+          "Name_of_Insured": "",
+          "Types_of_Benefit": "",
+          "Total_Benefit_Amount": "",
+          "Annual_Premium": "",
+          "Coverage_Type": ""
+        }
+      ]
+    },
+    "3_Cash_Flow_and_Budget": {
+      "Take_into_consideration": null,
+      "Reason_if_no": "",
+      "a_Cash_Flow": {
+        "Estimated_total_annual_income": "",
+        "Estimated_total_annual_expenses": "",
+        "Surplus_Shortfall": "",
+        "Significant_changes_expected": null,
+        "Remarks": ""
+      },
+      "b_Budget": {
+        "Annual_Amount": "",
+        "Source_of_this_fund": "",
+        "Single_Amount": "",
+        "Substantial_portion_of_assets": null
+      }
+    },
+    "4_Assets_and_Liabilities": {
+      "Take_into_consideration": null,
+      "Reason_if_no": "",
+      "a_Assets": {
+        "Personal_Use_Assets": "",
+        "Investment": "",
+        "CPF": "",
+        "Others": "",
+        "Emergency_Fund": "",
+        "Total_Assets": ""
+      },
+      "b_Liabilities": {
+        "Loans": "",
+        "Liabilities": "",
+        "Total_Liabilities": ""
+      },
+      "Combined": {
+        "Total_Assets": "",
+        "Less_Total_Liabilities": "",
+        "Net_Asset_Position": ""
+      }
+    },
+    "5_Personal_Priorities": {
+      "a_Health_Insurance_Concerns": {
+        "Cover_for_hospitalisation_expenses": "",
+        "Cover_for_outpatient_medical_expenses": "",
+        "Cover_for_major_illnesses": "",
+        "Cover_for_loss_of_income": ""
+      },
+      "b_Nature_of_benefits_payment": ""
+    },
+    "6_Replacement_of_Policy": {
+      "Intend_to_replace": null
+    },
+    "7_Medical_Insurance_for_Migrant_Worker": {
+      "Intend_to_buy": null
+    }
+  },
+  "Section_B_Our_Advice_and_Reasons_Why": {
+    "B1_Analysis_and_Calculation_Worksheet": {
+      "a_Medical_Expenses": {
+        "Preferred_hospital_type": "",
+        "Preferred_ward_type": "",
+        "Existing_insurance_plan": null,
+        "Existing_policy_type": ""
+      },
+      "b_Critical_Illnesses": {
+        "Total_lump_sum_required": "",
+        "Existing_insurance_plan": null,
+        "Existing_sum_insured": "",
+        "Estimated_lump_sum_needed": ""
+      },
+      "c_Hospital_Cash_Income": {
+        "Daily_cash_income_required": "",
+        "Existing_insurance_plan": null,
+        "Existing_amount_covered": "",
+        "Estimated_cash_income_needed": ""
+      }
+    },
+    "B2_Financial_Planner_Analysis_and_Recommendations": {
+      "Total_Health_Insurance_Budget": "",
+      "Recommendations": [
+        {
+          "Type": "Hospital/Surgical Expense Protection",
+          "Recommended": null,
+          "Reasons": "",
+          "Replacement_Intended": null
+        },
+        {
+          "Type": "Critical Illness Protection",
+          "Recommended": null,
+          "Reasons": "",
+          "Replacement_Intended": null
+        }
+      ],
+      "Replacement_Policy_Details": {
+        "Original_Policy": {},
+        "Replacement_Policy": {}
+      }
+    }
+  }
+}
